@@ -1,0 +1,8 @@
+make database mysql php
+database name:-foodapp
+table name:-users
+with column:-id(with autoincrement)
+             username
+             email
+             password
+             
